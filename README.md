@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System CLI
 
 A basic student record manager that runs in the terminal. It uses only the
@@ -19,3 +20,6 @@ and course; IDs must be unique.
 ```powershell
 python -m unittest
 ```
+=======
+# Student_Management_System
+>>>>>>> e99808bea686c1633d2186ca9c5d0cad455deacf
